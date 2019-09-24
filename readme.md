@@ -4,6 +4,9 @@
 ## <a name="A"> </a>A
 ## <a name="B"> </a>B
 ## <a name="C"> </a>C
+
+* [Cyn SMS API SDK](https://github.com/cynojine/cynsms-api) - Cyn SMS API is build for Cyn SMS - Bulk SMS Application For Marketing. **By [@cynojinetech](https://twitter.com/cynojinetech)**
+
 ## <a name="D"> </a>D
 ## <a name="E"> </a>E
 * [ExPassAuth](https://github.com/tumbone/ExPassAuth) - Simple NodeJs (ExpressJs + PassportJs) server-side app used to manage users and authenticate requests in a Client + Api Architecture . Endpoint authorization is implemented by using JSON Web Tokens. **By [@tumbone](https://twitter.com/tumbone)**
