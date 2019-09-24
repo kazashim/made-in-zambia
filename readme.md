@@ -5,7 +5,7 @@
 ## <a name="B"> </a>B
 ## <a name="C"> </a>C
 
-* [Cyn SMS API SDK](https://github.com/cynojine/cynsms-api) - Cyn SMS API is build for Cyn SMS - Bulk SMS Application For Marketing. **By [@cynojinetech](https://twitter.com/cynojinetech)**
+* [Cyn SMS API SDK](https://github.com/cynojine/cynsms-api) - Cyn SMS API is build for Cyn SMS - Bulk SMS Application For Marketing. **By [@kazashim](https://twitter.com/cynojinetech)**
 
 ## <a name="D"> </a>D
 ## <a name="E"> </a>E
